@@ -9,5 +9,5 @@ Some of my current projects may include :
 - some online postcards for my friends and professors
 
 <p align="left">
-  <a href= <img width="200" height="143" alt="image" src="https://github.com/user-attachments/assets/3399a5b6-5210-441e-bc93-515a04d5ba38" />
+  <a href=[ <img width="200" height="143" alt="image" src="https://github.com/user-attachments/assets/3399a5b6-5210-441e-bc93-515a04d5ba38" ](https://www.picgifs.com/glitter-gifs/f/frog/picgifs-frog-4879223.gif)/>
 
