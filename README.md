@@ -8,6 +8,5 @@ Some of my current projects may include :
 - a very basic 2D platform game displaying my cat Malo as the main character
 - some online postcards for my friends and professors
 
-<p align="left">
-  <a href=[ <img width="200" height="143" alt="image" src="https://github.com/user-attachments/assets/3399a5b6-5210-441e-bc93-515a04d5ba38" ](https://www.picgifs.com/glitter-gifs/f/frog/picgifs-frog-4879223.gif)/>
+<img align="right" alt="Coding" width="400" src="https://www.picgifs.com/glitter-gifs/f/frog/picgifs-frog-4879223.gif">
 
