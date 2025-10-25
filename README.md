@@ -1,4 +1,10 @@
+<div align="center">
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi](https://www.picgifs.com/glitter-gifs/f/frog/picgifs-frog-664677.gif)"  />
+</div>
+
+<div align="center">
 ## Kamoica c'est moi
+</div>
 
 > **I'm a graphic design student trying to learn as much things as possible before the end of my third year, because I will soon need to find a job. This will be tough.**
 
