@@ -16,5 +16,6 @@ Some of my current projects may include :
 - a very basic 2D platform game displaying my cat __Malo__ as the main character
 - some online postcards for my friends and professors
 
-<img src="https://www.picgifs.com/glitter-gifs/f/frog/picgifs-frog-4879223.gif" alt="frog qui brille de mille feux" style="align:right;float:right;width=400">
-
+<div align="center">
+  <img height="150" src="https://i9.glitter-graphics.org/pub/1369/1369749pssfs1ja0k.gif"  />
+</div>
