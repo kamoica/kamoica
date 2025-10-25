@@ -1,16 +1,13 @@
-## Hi there 👋
+## Kamoica c'est moi
 
-<!--
-**kamoica/kamoica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a graphic design student trying to learn as much things as possible before the end of my third year, because I will soon need to find a job. This will be tough.**
 
-Here are some ideas to get you started:
+My ultimate goal is to become great at everything I do on the first try. Unfortunately, this is not doable. Also, I'm kind of slow. So I guess I will have to spend some time working on things.
+Some of my current projects may include :
+- the **greatest** online frog museum
+- a very basic 2D platform game displaying my cat Malo as the main character
+- some online postcards for my friends and professors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href= <img width="200" height="143" alt="image" src="https://github.com/user-attachments/assets/3399a5b6-5210-441e-bc93-515a04d5ba38" />
+
